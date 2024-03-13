@@ -1,0 +1,20 @@
+{
+  "name": "@audiotranscription/api-example",
+  "version": "1.0.0",
+  "description": "Nodejs example of uploading a file to the audiotranscription.ai api for transcription",
+  "main": "src/index.ts",
+  "author": "Silicon Rhino <support@siliconrhino.io> (https://www.siliconrhino.io)",
+  "license": "MIT-0",
+  "private": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^18",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  }
+}

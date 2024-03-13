@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules
+
+# ts
+dist/
+*.tsbuildinfo
+
+# DS_Store
+.DS_Store
